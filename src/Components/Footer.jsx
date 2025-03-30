@@ -32,7 +32,7 @@ function Footer() {
               </li>
               <li className="contact-item flex items-center gap-2">
                 <ion-icon name="location-outline"></ion-icon>
-                <address>3146 Koontz, California</address>
+                <address>Ahmedabad, India</address>
               </li>
             </ul>
           </div>
